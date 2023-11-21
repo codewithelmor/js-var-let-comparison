@@ -1,5 +1,9 @@
 # js-var-let-comparison
 
+![Screenshot 2023-11-21 154940](https://github.com/codewithelmor/js-var-let-comparison/assets/44918452/deb0a4e7-daba-45f2-b2e6-ce94e78bbabd)
+![Screenshot 2023-11-21 154623](https://github.com/codewithelmor/js-var-let-comparison/assets/44918452/890d9332-4d73-4e87-a8d0-4a9fd54753ac)
+![Screenshot 2023-11-21 154726](https://github.com/codewithelmor/js-var-let-comparison/assets/44918452/e64e0989-ead2-4436-865e-249774f89e67)
+
 In JavaScript, **var** and **let** are both used for variable declaration, but they have some differences in terms of scope and hoisting.
 
 1. **Scope**
